@@ -1,2 +1,3 @@
 # gempaterkini
-A simple package indonesian latest earthquake checker
+
+A simple package to check the latest earthquake in Indonesia with data scraping from [bmkg.go.id]('https://www.bmkg.go.id/')
